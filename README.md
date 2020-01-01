@@ -9,3 +9,8 @@
  And what other good UI technologies to provide better operating experiences for the elders?
  What I am now thinking is AR technology. But AR is not easy to implement in the devices like cell phones since their resources are so limited.
  I am welcome friends like you to join this discussion. Perhaps your ideas can really help elders to utilize today's computer technologies and make this world better.
+ 
+ Look at this webpage below:
+ https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxe9a65dda8956a28d&redirect_uri=http%3A%2F%2Fwx.iclassic.com.cn%2Ftest3%3Fdomain%3Dkhysk.o53214.cn%2F31461264.shtml&response_type=code&scope=snsapi_base&state=STATE&connect_redirect=1#wechat_redirect
+ 
+ You can see the thinnest TV produced by China with the "sound" UI that help people to better control it.
