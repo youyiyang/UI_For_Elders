@@ -13,4 +13,4 @@
  Look at this webpage below:
  https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxe9a65dda8956a28d&redirect_uri=http%3A%2F%2Fwx.iclassic.com.cn%2Ftest3%3Fdomain%3Dkhysk.o53214.cn%2F31461264.shtml&response_type=code&scope=snsapi_base&state=STATE&connect_redirect=1#wechat_redirect
  
- You can see the thinnest TV produced by China with the "sound" UI that help people to better control it.
+ You can see the thinnest TV screen produced by China with the "sound" UI that help people to better control it.
