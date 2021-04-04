@@ -16,4 +16,6 @@
  https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxe9a65dda8956a28d&redirect_uri=http%3A%2F%2Fwx.iclassic.com.cn%2Ftest3%3Fdomain%3Dkhysk.o53214.cn%2F31461264.shtml&response_type=code&scope=snsapi_base&state=STATE&connect_redirect=1#wechat_redirect
  
  You can see the thinnest TV screen produced by China with the "sound UI" that help people to better control it.
+ 
+ To easily input the owner's telephone number, I find a way recently that why not let the erderly saying 'my phone number' when he/she's finger touch the textfield  and the number automatically pops up in the textfield. 
 
